@@ -1,0 +1,14 @@
+G:\Development\Learn-Csharp\bin\Debug\net9.0\Learn-Csharp.exe
+G:\Development\Learn-Csharp\bin\Debug\net9.0\Learn-Csharp.deps.json
+G:\Development\Learn-Csharp\bin\Debug\net9.0\Learn-Csharp.runtimeconfig.json
+G:\Development\Learn-Csharp\bin\Debug\net9.0\Learn-Csharp.dll
+G:\Development\Learn-Csharp\bin\Debug\net9.0\Learn-Csharp.pdb
+G:\Development\Learn-Csharp\obj\Debug\net9.0\Learn-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Development\Learn-Csharp\obj\Debug\net9.0\Learn-Csharp.AssemblyInfoInputs.cache
+G:\Development\Learn-Csharp\obj\Debug\net9.0\Learn-Csharp.AssemblyInfo.cs
+G:\Development\Learn-Csharp\obj\Debug\net9.0\Learn-Csharp.csproj.CoreCompileInputs.cache
+G:\Development\Learn-Csharp\obj\Debug\net9.0\Learn-Csharp.dll
+G:\Development\Learn-Csharp\obj\Debug\net9.0\refint\Learn-Csharp.dll
+G:\Development\Learn-Csharp\obj\Debug\net9.0\Learn-Csharp.pdb
+G:\Development\Learn-Csharp\obj\Debug\net9.0\Learn-Csharp.genruntimeconfig.cache
+G:\Development\Learn-Csharp\obj\Debug\net9.0\ref\Learn-Csharp.dll
